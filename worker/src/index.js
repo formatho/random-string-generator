@@ -7,7 +7,7 @@ const JSON_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'X-Privacy-Policy': 'Zero tracking, zero data collection',
 };
-const FULL_TOOL = 'https://formatho.com/random-string-generator';
+const FULL_TOOL = 'https://formatho.com/tools';
 
 const CHARSETS = {
   numeric: '0123456789',

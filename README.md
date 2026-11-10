@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/formatho/random-string-generator?style=social)](https://github.com/formatho/random-string-generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Privacy First](https://img.shields.io/badge/Privacy-First%20%F0%9F%94%92-success)](https://formatho.com)
-[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/random-string-generator)
+[![Try Online](https://img.shields.io/badge/Try%20Online-Online%20%F0%9F%8C%90-blue)](https://formatho.com/tools)
 
 A fast, secure, and privacy-first random string generator that creates random strings entirely in your browser. No data is ever sent to a server, ensuring complete privacy and security for your generated strings.
 
@@ -93,7 +93,7 @@ aB3x-Y9zQ-2pL7-kJhM
 
 ### Web App
 
-Visit [formatho.com/random-string-generator](https://formatho.com/random-string-generator) and:
+Visit [formatho.com/tools](https://formatho.com/tools) and:
 
 1. **Select Format**: Choose string format (alphanumeric, alphabetic, etc.)
 2. **Set Length**: Set string length (1-10,000 characters)
@@ -249,7 +249,7 @@ At Formatho, we believe in privacy-first development:
 
 ### For Web App
 
-No installation required! Visit [formatho.com/random-string-generator](https://formatho.com/random-string-generator).
+No installation required! Visit [formatho.com/tools](https://formatho.com/tools).
 
 ### For NPM Package
 
@@ -385,8 +385,8 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 - [UUID Generator](https://github.com/formatho/uuid-generator) - Generate UUIDs
 - [Hash Generator](https://github.com/formatho/hash-generator) - Generate hash strings
-- [Password Generator](https://formatho.com/password-generator) - Generate secure passwords
-- [Security Tools](https://formatho.com/security-tools) - More security tools
+- [Password Generator](https://formatho.com/tools/password-generator) - Generate secure passwords
+- [Security Tools](https://formatho.com/tools) - More security tools
 
 ## 💬 Support
 
@@ -404,7 +404,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 Privacy-first developer tools, 100+ utilities with zero tracking.
 
-[Try Online](https://formatho.com/random-string-generator) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
+[Try Online](https://formatho.com/tools) | [More Tools](https://formatho.com) | [Privacy Policy](https://formatho.com/privacy)
 ## ⚡ Free API — Cloudflare Worker
 
 This tool is also available as a free, zero-tracking API deployed on Cloudflare Workers:
@@ -415,5 +415,5 @@ Deploy it yourself: the complete Worker source is in [`worker/`](./worker) — `
 
 ## 🔗 Links
 
-- [Online tool](https://formatho.com/random-string-generator)
+- [Online tool](https://formatho.com/tools)
 - [Live API](https://random-string-formatho.filesformatho.workers.dev)
